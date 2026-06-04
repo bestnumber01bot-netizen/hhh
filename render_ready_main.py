@@ -38,7 +38,7 @@ except ImportError:
 # ==================== CONFIG SECTION ====================
 
 BOT_TOKEN = "8527654676:AAFA8alHq_8iOEoWsacaiFvioklLGGA4k4o"
-API_KEY = "ZNX_IQ52ED851U09ZAZL062U26GL"  # জেনেক্স এপিআই কী
+API_KEY = "ZNX_T2FHH4O17W78E4UY6CCXVNUT"  # জেনেক্স এপিআই কী
 BASE_URL = "https://zenexnetwork.com"      # জেনেক্স এপিআই ডোমেন
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
