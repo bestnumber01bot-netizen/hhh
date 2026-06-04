@@ -135,7 +135,7 @@ def is_under_maintenance(uid):
     return settings.get("maintenance_mode", False) and not is_admin(uid)
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [8461378936]  
+ADMINS = [6841814966]  
 
 OTP_GROUP_ID = -1003768160049
 
